@@ -1,0 +1,12 @@
+h1 {
+	color: red;
+}
+h2 {
+	color: green;
+	text-shadow: 2px 6px red;
+}
+img {
+	height: 280px;
+	width: 270px;
+	object-fit: scale-down;
+}
